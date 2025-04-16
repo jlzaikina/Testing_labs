@@ -1,0 +1,15 @@
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\bin\Debug\net8.0\LR1.exe
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\bin\Debug\net8.0\LR1.deps.json
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\bin\Debug\net8.0\LR1.runtimeconfig.json
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\bin\Debug\net8.0\LR1.dll
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\bin\Debug\net8.0\LR1.pdb
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\obj\Debug\net8.0\LR1.GeneratedMSBuildEditorConfig.editorconfig
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\obj\Debug\net8.0\LR1.AssemblyInfoInputs.cache
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\obj\Debug\net8.0\LR1.AssemblyInfo.cs
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\obj\Debug\net8.0\LR1.csproj.CoreCompileInputs.cache
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\obj\Debug\net8.0\LR1.sourcelink.json
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\obj\Debug\net8.0\LR1.dll
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\obj\Debug\net8.0\refint\LR1.dll
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\obj\Debug\net8.0\LR1.pdb
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\obj\Debug\net8.0\LR1.genruntimeconfig.cache
+D:\учеба\Тестирование\Test_lab\Labs\ConsoleApp1\obj\Debug\net8.0\ref\LR1.dll
